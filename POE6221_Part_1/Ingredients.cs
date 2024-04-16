@@ -93,7 +93,7 @@ namespace POE6221_Part_1
             Console.WriteLine();
 
         }
-
+        //reset method
         public void ResetScale()
         {
 
@@ -108,7 +108,7 @@ namespace POE6221_Part_1
 
 
         }
-
+        //clear method
         public void ClearScale()
         {
              clear = 0;
