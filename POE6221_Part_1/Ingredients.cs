@@ -45,7 +45,7 @@ namespace POE6221_Part_1
             set { measuremntScale = value; }
         }
 
-        public Formula[] formulas
+        public Formula[] Formula
         {
             get { return formula; }
             set { formula = value; }
